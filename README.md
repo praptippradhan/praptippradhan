@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Front-end Development
 - 🌱 I’m currently learning Back-end Development
 - 😄 Pronouns: She/Her
-<!-->- ⚡ Fun fact: 
+- ⚡ Fun fact: I can still eat after I just had a meal.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praptippradhan&label=Profile%20views&color=0e75b6&style=flat" alt="praptippradhan" /> </p>
 
