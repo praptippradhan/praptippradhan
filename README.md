@@ -22,8 +22,8 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/praptippradhan" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/_PraptiPPradhan_" target="_blank"><img align="center" src="https://img.shields.io/twitter/follow/_PraptiPPradhan_?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.linkedin.com/in/prapti-prachita-pradhan-a8a979257/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/PraptiPP2004" target="_blank"><img align="center" src="https://img.shields.io/twitter/follow/_PraptiPPradhan_?style=for-the-badge&logo=twitter" /></a>
   <a href="mailto:praptiprachita2004@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
